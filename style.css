@@ -60,3 +60,53 @@ body {
 		height: 300px;
 		width: 301px;
 	}
+	.second-section {
+		height: 400px;
+		width: 100%;
+	
+	}
+	.second-section h2 {
+		text-align: center;
+		font-size: 45px;
+	}
+	.second-section span{
+		color: orange;
+	}
+	.second-section-flex {
+		height: 300px;
+		width: 100%;
+		display: flex;
+		justify-content: space-between;
+	}
+	.cards {
+		border: 1px solid black;
+		width: 27%;
+		height: 300px;
+		border-radius: 16px;
+	}
+	.card-1 {
+		background-color:#a0d8df ;
+	}
+	.card-2 {
+		background-color: #b57171;
+	}
+	.card-3 {
+		background-color: #bd9c41;
+	}
+	.cards img {
+		height: 100px;
+		width: 100px;
+		line-height: 0px;
+		margin-left: 20px;
+	}
+	.cards h4 {
+		font-size: 22px;
+		line-height: 0px;
+		margin-left: 20px;
+	}
+	.cards p {
+	margin-left: 20px;
+	text-align: justify;
+	margin-right: 25px;
+	}
+	
